@@ -938,3 +938,17 @@ header {
       margin: 10px 0;
   }
 }
+
+/* links in project index.html */
+p a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+p a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
